@@ -1,0 +1,1912 @@
+{
+    "type": "FeatureCollection",
+    "name": "sample_schools",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 33491.0,
+                "SCHOOL_NAM": "KINGANDOLE SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Busia",
+                "LONGITUDE": 34.236375,
+                "LATITUDE": 0.357667
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.236375000747742,
+                    0.357666999998805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35245.0,
+                "SCHOOL_NAM": "GATUTO MIXED DAY",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kirinyaga",
+                "LONGITUDE": 37.300322,
+                "LATITUDE": -0.56689
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.300322000000527,
+                    -0.56689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 26535.0,
+                "SCHOOL_NAM": "NDIARA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nyandarua",
+                "LONGITUDE": 36.517848,
+                "LATITUDE": -0.363822
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.517848000007476,
+                    -0.3638225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 26039.0,
+                "SCHOOL_NAM": "KEMERA CENTRAL",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Nyamira",
+                "LONGITUDE": 34.84091,
+                "LATITUDE": -0.66278
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.840910000284978,
+                    -0.662779999999233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 36888.0,
+                "SCHOOL_NAM": "KIVUTHINI SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Makueni",
+                "LONGITUDE": 38.0225,
+                "LATITUDE": -2.53284
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.0225,
+                    -2.53284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16495.0,
+                "SCHOOL_NAM": "NGULUNI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.26452,
+                "LATITUDE": -1.30964
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.264520000000601,
+                    -1.30964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 42196.0,
+                "SCHOOL_NAM": "JONEMO MIXED",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.477098,
+                "LATITUDE": -0.513057
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.477098000516968,
+                    -0.513056999998857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 12182.0,
+                "SCHOOL_NAM": "KEERA DEB",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kisii",
+                "LONGITUDE": 34.810874,
+                "LATITUDE": -0.870454
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.810874000299471,
+                    -0.870453999998949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 20919.0,
+                "SCHOOL_NAM": "KIUMU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Murang'a",
+                "LONGITUDE": 37.002796,
+                "LATITUDE": -0.745249
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.002796000001609,
+                    -0.745248887999978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 7282.0,
+                "SCHOOL_NAM": "SHAMUSINJIRI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.7122,
+                "LATITUDE": 0.226802
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.712200000354287,
+                    0.226801999999671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 27227.0,
+                "SCHOOL_NAM": "NGORANO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nyeri",
+                "LONGITUDE": 37.073421,
+                "LATITUDE": -0.412505
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.073421000001275,
+                    -0.412505277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 1796.0,
+                "SCHOOL_NAM": "REMWA RC",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bungoma",
+                "LONGITUDE": 34.504181,
+                "LATITUDE": 0.475628
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.504181000495464,
+                    0.475627999999006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35257.0,
+                "SCHOOL_NAM": "KIAMURUGA MIXED",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kirinyaga",
+                "LONGITUDE": 37.262814,
+                "LATITUDE": -0.50468
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.26281400000061,
+                    -0.504679699999958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35739.0,
+                "SCHOOL_NAM": "NYAGANCHA",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kisii",
+                "LONGITUDE": 34.727867,
+                "LATITUDE": -0.737687
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.727867000344503,
+                    -0.737686999998954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 24857.0,
+                "SCHOOL_NAM": "ST JOHNS THE BAPTIST",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nandi",
+                "LONGITUDE": 35.013765,
+                "LATITUDE": 0.009109
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.013765000211393,
+                    0.009109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 6120.0,
+                "SCHOOL_NAM": "KHALIFA ABUBAKAR",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Isiolo",
+                "LONGITUDE": 38.667716,
+                "LATITUDE": 1.062436
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.667716,
+                    1.062436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 47527.0,
+                "SCHOOL_NAM": "MERU HARVESTER ACADEMY",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Meru",
+                "LONGITUDE": 37.54748,
+                "LATITUDE": 0.1202
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.547480000000171,
+                    0.1202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 13504.0,
+                "SCHOOL_NAM": "KANGUNGI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 37.90429,
+                "LATITUDE": -1.18446
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.90429,
+                    -1.18446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 34015.0,
+                "SCHOOL_NAM": "GOT RACHAR OJODE MIXED SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.88164,
+                "LATITUDE": -0.43898
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.881640000266081,
+                    -0.438979999999548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 26822.0,
+                "SCHOOL_NAM": "MURUAKI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nyandarua",
+                "LONGITUDE": 36.573608,
+                "LATITUDE": -0.644562
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.573608000006381,
+                    -0.644561665999986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38358.0,
+                "SCHOOL_NAM": "MAAI MAHIU GIRLS",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 36.434253,
+                "LATITUDE": -0.719038
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.434252900009426,
+                    -0.719038399999959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 13055.0,
+                "SCHOOL_NAM": "KIRINDO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kisumu",
+                "LONGITUDE": 34.48287,
+                "LATITUDE": -0.16674
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.482870000512811,
+                    -0.166739999999627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 7705.0,
+                "SCHOOL_NAM": "ST MARGARET MEMORIAL",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.407199,
+                "LATITUDE": 0.348285
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.407199000576817,
+                    0.348284501999129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 5465.0,
+                "SCHOOL_NAM": "RABUOR",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.5783,
+                "LATITUDE": -0.40976
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.57830000044045,
+                    -0.409759999999199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38440.0,
+                "SCHOOL_NAM": "RASUL AL RARIM ACADEMY",
+                "LEVEL": "Secondary",
+                "STATUS": "Private",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 36.133134,
+                "LATITUDE": -0.309062
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.13313400002064,
+                    -0.309062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 23789.0,
+                "SCHOOL_NAM": "LARE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 35.964403,
+                "LATITUDE": -0.527323
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.964403000030828,
+                    -0.527323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 7601.0,
+                "SCHOOL_NAM": "MAKHUKHUNI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.7059,
+                "LATITUDE": 0.49383
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.705900000357708,
+                    0.493829999999305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 2787.0,
+                "SCHOOL_NAM": "KIPSOEN SDA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bungoma",
+                "LONGITUDE": 34.637448,
+                "LATITUDE": 0.825668
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.637448000399424,
+                    0.825667999998626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 28208.0,
+                "SCHOOL_NAM": "MULAHA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Siaya",
+                "LONGITUDE": 34.273906,
+                "LATITUDE": 0.06276
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.273906000707207,
+                    0.062759999999825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 47804.0,
+                "SCHOOL_NAM": "ST JOSEPHS KATHUNGURI PRI",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Embu",
+                "LONGITUDE": 37.6352,
+                "LATITUDE": -0.428719
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.635200000000125,
+                    -0.428719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38323.0,
+                "SCHOOL_NAM": "MIANZINI SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 35.75943,
+                "LATITUDE": -0.30425
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.759430000048908,
+                    -0.30425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 1156.0,
+                "SCHOOL_NAM": "KAPKULUMBEN",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bomet",
+                "LONGITUDE": 35.26562,
+                "LATITUDE": -0.99861
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.265620000132635,
+                    -0.998609999999494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16282.0,
+                "SCHOOL_NAM": "KIMUUNI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.674187,
+                "LATITUDE": -1.273311
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.674187,
+                    -1.273311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 10446.0,
+                "SCHOOL_NAM": "SIR ALI SPECIAL FOR MH",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kilifi",
+                "LONGITUDE": 40.11909,
+                "LATITUDE": -3.21838
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.11909,
+                    -3.21838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 14221.0,
+                "SCHOOL_NAM": "NGILUNI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 37.98403,
+                "LATITUDE": -1.50837
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.98403,
+                    -1.50837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 20331.0,
+                "SCHOOL_NAM": "PORTREITZ",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Mombasa",
+                "LONGITUDE": 39.60449,
+                "LATITUDE": -4.03658
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.60449,
+                    -4.03658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 12495.0,
+                "SCHOOL_NAM": "DWELE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kisumu",
+                "LONGITUDE": 34.623538,
+                "LATITUDE": -0.067277
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.623538000409731,
+                    -0.067276958999842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16580.0,
+                "SCHOOL_NAM": "KITETENI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.6585,
+                "LATITUDE": -1.47313
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6585,
+                    -1.47313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16020.0,
+                "SCHOOL_NAM": "KING ONG OI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.259068,
+                "LATITUDE": -1.391701
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.259068000000603,
+                    -1.391701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 17334.0,
+                "SCHOOL_NAM": "NTHIA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Makueni",
+                "LONGITUDE": 37.78316,
+                "LATITUDE": -2.16661
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.78316,
+                    -2.16661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 5101.0,
+                "SCHOOL_NAM": "SULWE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.298152,
+                "LATITUDE": -0.538688
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.298152000680972,
+                    -0.538687999998354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 18115.0,
+                "SCHOOL_NAM": "RHAMU DIMTU BOARDING",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Mandera",
+                "LONGITUDE": 41.065521,
+                "LATITUDE": 4.020525
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.065521199998074,
+                    4.0205249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 23051.0,
+                "SCHOOL_NAM": "CHENUGU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 35.51971,
+                "LATITUDE": -0.44639
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.519710000080906,
+                    -0.446389999999882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 26981.0,
+                "SCHOOL_NAM": "MERE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nyeri",
+                "LONGITUDE": 37.12604,
+                "LATITUDE": -0.23498
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.126040000001048,
+                    -0.23498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 6863.0,
+                "SCHOOL_NAM": "MABOLE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.507097,
+                "LATITUDE": 0.181587
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.507097000493602,
+                    0.181586557999624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 23540.0,
+                "SCHOOL_NAM": "CRATER ACADEMY",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 36.074286,
+                "LATITUDE": -0.275736
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.074286000023804,
+                    -0.275736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 40234.0,
+                "SCHOOL_NAM": "ST PAULS MAKONGI",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Uasin Gishu",
+                "LONGITUDE": 35.260921,
+                "LATITUDE": 0.911734
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.260921000133926,
+                    0.911733999999537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 6154.0,
+                "SCHOOL_NAM": "KITENGELA BOARDING PRI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kajiado",
+                "LONGITUDE": 36.892335,
+                "LATITUDE": -1.484124
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.892335300002358,
+                    -1.4841242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 34987.0,
+                "SCHOOL_NAM": "GICHURU MEMORIAL",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kiambu",
+                "LONGITUDE": 36.629972,
+                "LATITUDE": -1.285143
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.629972200005369,
+                    -1.285142699999981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 2056.0,
+                "SCHOOL_NAM": "ST JOSEPHS RC",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bungoma",
+                "LONGITUDE": 34.769078,
+                "LATITUDE": 0.598415
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.769078000321876,
+                    0.598414999999224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 44022.0,
+                "SCHOOL_NAM": "NADANYA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Vihiga",
+                "LONGITUDE": 34.68135,
+                "LATITUDE": 0.09337
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.681350000372859,
+                    0.093369999999858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 14568.0,
+                "SCHOOL_NAM": "KITULANI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 37.98586,
+                "LATITUDE": -1.12612
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.98586,
+                    -1.12612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 49135.0,
+                "SCHOOL_NAM": "NGERE MIXED SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.479383,
+                "LATITUDE": -0.640378
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.479382500514795,
+                    -0.64037749999857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 24610.0,
+                "SCHOOL_NAM": "NGENYILEL",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nandi",
+                "LONGITUDE": 34.99427,
+                "LATITUDE": 0.54176
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.994270000218528,
+                    0.541759999999569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 1838.0,
+                "SCHOOL_NAM": "BUSAKALA FYM",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bungoma",
+                "LONGITUDE": 34.571182,
+                "LATITUDE": 0.735205
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.571181700444768,
+                    0.735205399998612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 14295.0,
+                "SCHOOL_NAM": "KASINA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 38.05043,
+                "LATITUDE": -0.93312
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.05043,
+                    -0.93312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 12533.0,
+                "SCHOOL_NAM": "WANDEGA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kisumu",
+                "LONGITUDE": 34.651297,
+                "LATITUDE": -0.007123
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.651297000391658,
+                    -0.007122845999978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 12033.0,
+                "SCHOOL_NAM": "BONYAKONI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kisii",
+                "LONGITUDE": 34.92725,
+                "LATITUDE": -0.856374
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.927250000245316,
+                    -0.856373999999173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 28277.0,
+                "SCHOOL_NAM": "URADI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Siaya",
+                "LONGITUDE": 34.15921,
+                "LATITUDE": 0.12356
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.159210000838677,
+                    0.123559999999533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 17101.0,
+                "SCHOOL_NAM": "MAIA ATATU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Makueni",
+                "LONGITUDE": 38.09953,
+                "LATITUDE": -2.64915
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.09953,
+                    -2.64915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 18345.0,
+                "SCHOOL_NAM": "SESSI ACADEMY",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Marsabit",
+                "LONGITUDE": 39.044861,
+                "LATITUDE": 3.526959
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.0448613,
+                    3.526958900000018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 24114.0,
+                "SCHOOL_NAM": "CHEMUNDU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nandi",
+                "LONGITUDE": 35.08746,
+                "LATITUDE": 0.25183
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.087460000185189,
+                    0.251829999999833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 7430.0,
+                "SCHOOL_NAM": "SIKULU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 35.11844,
+                "LATITUDE": 0.77439
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.118440000174651,
+                    0.774389999999504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38842.0,
+                "SCHOOL_NAM": "TINDERET SECONDARY",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Nandi",
+                "LONGITUDE": 35.348416,
+                "LATITUDE": -0.017842
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.348415500413701,
+                    -0.017842099633091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 25394.0,
+                "SCHOOL_NAM": "MELELO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Narok",
+                "LONGITUDE": 35.61673,
+                "LATITUDE": -0.917938
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.616730000066084,
+                    -0.917937999999795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35270.0,
+                "SCHOOL_NAM": "NJEGA BOYS",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kirinyaga",
+                "LONGITUDE": 37.28049,
+                "LATITUDE": -0.572447
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.280489500000577,
+                    -0.572447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 19603.0,
+                "SCHOOL_NAM": "KOMOTOBO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Migori",
+                "LONGITUDE": 34.615348,
+                "LATITUDE": -1.280326
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.61534800041229,
+                    -1.28032599999777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16471.0,
+                "SCHOOL_NAM": "KWASYOKIMANZA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.686317,
+                "LATITUDE": -1.454361
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.686317,
+                    -1.454361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 36517.0,
+                "SCHOOL_NAM": "KAWETHEI",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.32027,
+                "LATITUDE": -1.34668
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.320270000000484,
+                    -1.34668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 36184.0,
+                "SCHOOL_NAM": "ST JOHNS KWA MULUNGU",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 37.90637,
+                "LATITUDE": -1.32649
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.90637,
+                    -1.32649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 2121.0,
+                "SCHOOL_NAM": "KIMININI FYM",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Bungoma",
+                "LONGITUDE": 34.977308,
+                "LATITUDE": 0.857172
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.977308000224753,
+                    0.857171999999278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 4347.0,
+                "SCHOOL_NAM": "A.CK.KILIA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Embu",
+                "LONGITUDE": 37.391083,
+                "LATITUDE": -0.804516
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.391083000000357,
+                    -0.804516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 14413.0,
+                "SCHOOL_NAM": "KAKUNGUU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kitui",
+                "LONGITUDE": 38.24818,
+                "LATITUDE": -0.23602
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.24818,
+                    -0.23602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35711.0,
+                "SCHOOL_NAM": "NYANGUSU SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kisii",
+                "LONGITUDE": 34.791664,
+                "LATITUDE": -0.61054
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.791664000309872,
+                    -0.610539999999203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 30984.0,
+                "SCHOOL_NAM": "VUMILIA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Uasin Gishu",
+                "LONGITUDE": 35.202899,
+                "LATITUDE": 0.684059
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.202899000149564,
+                    0.684058599999628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 312.0,
+                "SCHOOL_NAM": "TILINGWO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Baringo",
+                "LONGITUDE": 35.671864,
+                "LATITUDE": 0.903528
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.671864000058846,
+                    0.903527999999839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 34993.0,
+                "SCHOOL_NAM": "KERWA SEC",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kiambu",
+                "LONGITUDE": 36.63141,
+                "LATITUDE": -1.17058
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.63141000000536,
+                    -1.17058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 24184.0,
+                "SCHOOL_NAM": "KIMINDA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nandi",
+                "LONGITUDE": 35.1085,
+                "LATITUDE": 0.15294
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.108500000178282,
+                    0.15294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 6883.0,
+                "SCHOOL_NAM": "SHIBEMBE",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.475729,
+                "LATITUDE": 0.190006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.475729000518591,
+                    0.190005539999587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38974.0,
+                "SCHOOL_NAM": "KEGOGI PAG",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Nyamira",
+                "LONGITUDE": 34.955724,
+                "LATITUDE": -0.780652
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.955724000233545,
+                    -0.78065159999929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 20817.0,
+                "SCHOOL_NAM": "KIUNYU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Murang'a",
+                "LONGITUDE": 37.017807,
+                "LATITUDE": -0.949489
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.017807000001532,
+                    -0.949489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 8298.0,
+                "SCHOOL_NAM": "KEONGO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kericho",
+                "LONGITUDE": 35.2981,
+                "LATITUDE": -0.34085
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.298100000125189,
+                    -0.340849999999824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16167.0,
+                "SCHOOL_NAM": "MAKYAU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.209442,
+                "LATITUDE": -1.474178
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.209442000000756,
+                    -1.474178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 22459.0,
+                "SCHOOL_NAM": "GREEN PASTURES SCHOOL",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Nairobi",
+                "LONGITUDE": 36.783695,
+                "LATITUDE": -1.311239
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.783695300003352,
+                    -1.3112393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 11031.0,
+                "SCHOOL_NAM": "VALLEY ROAD PROGRESSIVE",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Kirinyaga",
+                "LONGITUDE": 37.281702,
+                "LATITUDE": -0.498539
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.281702000000571,
+                    -0.498539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 7340.0,
+                "SCHOOL_NAM": "ESHINUTSA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Kakamega",
+                "LONGITUDE": 34.642633,
+                "LATITUDE": 0.154316
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.64263300039719,
+                    0.154316291999746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 35553.0,
+                "SCHOOL_NAM": "ST PAULS AMASAGO",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Kisii",
+                "LONGITUDE": 34.849466,
+                "LATITUDE": -0.730024
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.849466000280749,
+                    -0.730023999999149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 17418.0,
+                "SCHOOL_NAM": "MAKUTANO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Makueni",
+                "LONGITUDE": 37.79232,
+                "LATITUDE": -2.11627
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.79232,
+                    -2.11627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 38217.0,
+                "SCHOOL_NAM": "KEKOPEY",
+                "LEVEL": "Secondary",
+                "STATUS": "Public",
+                "COUNTY": "Nakuru",
+                "LONGITUDE": 36.280975,
+                "LATITUDE": -0.431681
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.280975300014191,
+                    -0.431681399999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 15251.0,
+                "SCHOOL_NAM": "WORD OF LIFE CHRISTIAN",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Kwale",
+                "LONGITUDE": 39.585933,
+                "LATITUDE": -4.284742
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.585933,
+                    -4.284742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 3888.0,
+                "SCHOOL_NAM": "AIC LIFESPRING",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Elgeyo Marakwet",
+                "LONGITUDE": 35.50002,
+                "LATITUDE": 0.85517
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.500020000084007,
+                    0.855169999999776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 19783.0,
+                "SCHOOL_NAM": "ISIBANIA FAITH ACADEMY",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Migori",
+                "LONGITUDE": 34.478676,
+                "LATITUDE": -1.226422
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.47867570011293,
+                    -1.226421500047266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 4932.0,
+                "SCHOOL_NAM": "OTOLO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Homa Bay",
+                "LONGITUDE": 34.555745,
+                "LATITUDE": -0.493157
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.555745000456497,
+                    -0.49315699999902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 29426.0,
+                "SCHOOL_NAM": "GACERAKA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Tharaka Nithi",
+                "LONGITUDE": 37.867038,
+                "LATITUDE": -0.270663
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.867038,
+                    -0.270663055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 17546.0,
+                "SCHOOL_NAM": "MUTANDA",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Makueni",
+                "LONGITUDE": 37.38806,
+                "LATITUDE": -1.82677
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.388060000000351,
+                    -1.82677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 16132.0,
+                "SCHOOL_NAM": "KITULU",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Machakos",
+                "LONGITUDE": 37.31482,
+                "LATITUDE": -1.52589
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.314820000000495,
+                    -1.52589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 25166.0,
+                "SCHOOL_NAM": "OLKERI",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Narok",
+                "LONGITUDE": 35.958779,
+                "LATITUDE": -1.037495
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.958779000031129,
+                    -1.037495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 19832.0,
+                "SCHOOL_NAM": "MARABIKO",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Migori",
+                "LONGITUDE": 34.370832,
+                "LATITUDE": -1.06181
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.370832000607408,
+                    -1.061809999997129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 20548.0,
+                "SCHOOL_NAM": "ST JOHNS MISHOMORONI",
+                "LEVEL": "Primary",
+                "STATUS": "Private",
+                "COUNTY": "Mombasa",
+                "LONGITUDE": 39.677577,
+                "LATITUDE": -4.019051
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6775766,
+                    -4.0190509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CODE": 22547.0,
+                "SCHOOL_NAM": "ST JOHNS",
+                "LEVEL": "Primary",
+                "STATUS": "Public",
+                "COUNTY": "Nairobi",
+                "LONGITUDE": 36.844511,
+                "LATITUDE": -1.279998
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.844511000002754,
+                    -1.279998
+                ]
+            }
+        }
+    ]
+}
